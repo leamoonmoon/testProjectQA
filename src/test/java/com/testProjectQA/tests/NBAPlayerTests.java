@@ -1,6 +1,6 @@
 package com.testProjectQA.tests;
 
-import com.testProjectQA.utils.SportsDataAPI;
+import com.testPojectQA.utils.SportsDataAPI;
 import com.testPojectQA.pages.PlayerProfilePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

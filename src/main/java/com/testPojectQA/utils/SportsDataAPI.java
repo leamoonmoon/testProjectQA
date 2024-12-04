@@ -1,4 +1,4 @@
-package com.testProjectQA.utils;
+package com.testPojectQA.utils;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
